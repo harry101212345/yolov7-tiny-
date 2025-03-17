@@ -2,7 +2,7 @@
 
 成果展示
 訓練後 MAP
-<img src="圖片1.png" width="500">
+<img src="圖片1.png" width="400">
  
 功能展示
-<img src="圖片2.png" width="500">
+<img src="圖片2.png" width="400">
